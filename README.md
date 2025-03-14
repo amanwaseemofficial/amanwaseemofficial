@@ -1,5 +1,5 @@
 ## this is my first get repository
-Auther:amanwaseem
+Auther  -  amanwaseemofficial
 
 <!--
 **amanwaseemofficial/amanwaseemofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
